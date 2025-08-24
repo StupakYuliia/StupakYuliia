@@ -13,7 +13,7 @@
 # 🚀 Деякі з моїх проектів
   * dev-NFT: Мій навчальний проект.
     * Репозиторій: https://github.com/StupakYuliia/dev-NFT
-    * Демо: https://dev-nft-git-main-yuliia-stupaks-projects.vercel.app/
+    * Демо: https://dev-nft.vercel.app/
   * dev-Clerksy: Landing page.
     * Репозиторій: https://github.com/StupakYuliia/dev-Clerksy
     * Демо: https://dev-clerksy.vercel.app/
