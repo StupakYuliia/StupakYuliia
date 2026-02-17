@@ -64,7 +64,7 @@
 
 **Технології:** HTML5 (Semantic), CSS (Flexbox, Grid), JavaScript, Mobile-First.
 
-* **Репозиторій:**  https://github.com/StupakYuliia/cursor-ai-landingproject
+* **Репозиторій:** https://github.com/StupakYuliia/cursor-ai-landing-project
 * **Демо:** https://cursor-ai-landing-project.vercel.app/
 
 ## 📫 Як зв'язатися зі мною
